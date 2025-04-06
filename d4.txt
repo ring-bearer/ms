@@ -1,3 +1,4 @@
+potez	broj partija	bijeli dobiva	remi	crni dobiva
 1...Nf6	 381,786	36.3%	35.8%	27.9%
 1...d5	 161,561	39.4%	36.9%	23.8%
 1...e6	 26,897	38.5%	34%	27.5%
